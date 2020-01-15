@@ -75,4 +75,3 @@ while not rospy.is_shutdown():
     print("do your controlling here")
 
 # end of control loop snippet
-# testing
