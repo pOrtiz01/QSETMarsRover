@@ -65,8 +65,9 @@ class LocationHeading:
         # type: (Float32) -> None
         self.heading = msg.data
 
+#Cooper can edit this file
+#David can edit this file
 
- #Cooper can edit this file!!!!!!
 
 # end of localization stuff
 
