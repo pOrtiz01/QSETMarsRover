@@ -65,7 +65,6 @@ class LocationHeading:
         # type: (Float32) -> None
         self.heading = msg.data
 
-#Cooper can edit this file!!!!!!
 #Cooper can edit this folder!!!
 #David can edit this file
 
