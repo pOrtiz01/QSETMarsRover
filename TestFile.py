@@ -6,5 +6,3 @@ print("    Mom")
 print("        Is")
 print("          So")
 print("            Fat")
-print("sasasaa")
-
